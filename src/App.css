@@ -1,0 +1,61 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.stock-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.price {
+  font-size: 8rem;
+  margin: 3rem;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+}
+
+.difference {
+  font-size: 4rem;
+}
+
+.stock-name {
+  font-size: 4rem;
+  margin: 3rem;
+}
+
+.time {
+  font-size: 4rem;
+  margin: 3rem;
+}
+
+.green {
+  color: rgb(73, 229, 73);
+}
+
+.red {
+  color: rgb(234, 78, 78);
+}
+
+#demo-simple-select {
+  color: white;
+  font-size: 1rem;
+}
+
+#select-small {
+  border-color: white;
+}
+
+.stock-select {
+  display: flex;
+  justify-content: center;
+}
+
+.line-container {
+  width: 100%;
+}
