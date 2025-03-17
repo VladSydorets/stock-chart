@@ -2,7 +2,7 @@
 
 # Stocks App 
 
-Stocks app built with React. API was shut down :(
+Stocks app built with React. API was shut down
 
 ## Technologies:
 - React -> Dependencies: Axios, Chart.js, Material-UI.
